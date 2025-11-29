@@ -2,11 +2,11 @@
 
 > A simple music player - Translated to English
 
-![Stars](https://img.shields.io/github/stars/imsyy/SPlayer?style=flat)
-![Version](https://img.shields.io/github/v/release/imsyy/SPlayer)
-[![Build Release](https://github.com/imsyy/SPlayer/actions/workflows/release.yml/badge.svg)](https://github.com/imsyy/SPlayer/actions/workflows/release.yml)
-![License](https://img.shields.io/github/license/imsyy/SPlayer)
-![Issues](https://img.shields.io/github/issues/imsyy/SPlayer)
+![Stars](https://img.shields.io/github/stars/totolocks/SPlayer-English?style=flat)
+![Version](https://img.shields.io/github/v/release/totolocks/SPlayer-English)
+[![Build Release](https://github.com/totolocks/SPlayer-English/actions/workflows/release.yml/badge.svg)](https://github.com/totolocks/SPlayer-English/actions/workflows/release.yml)
+![License](https://img.shields.io/github/license/totolocks/SPlayer-English)
+![Issues](https://img.shields.io/github/issues/totolocks/SPlayer-English)
 
 ![main](/screenshots/SPlayer.jpg)
 
@@ -40,13 +40,6 @@
 
 - You're welcome to star this project, and be sure to star the original! 😍
 
-## 💬 Discussion Group
-
-<a href="https://qm.qq.com/cgi-bin/qm/qr?k=2-cVSf1bE0AvAehCib00qFEFdUvPaJ_k&jump_from=webapi&authKey=1NEhib9+GsmsXVo2rCc0IbRaVHeeRXJJ0gbsyKDcIwDdAzYySOubkFCvkV32+7Cw" target="_blank">
-
-![Discussion Group](/screenshots/welcome.png)
-
-</a>
 
 ## 👀 Demo
 
