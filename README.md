@@ -1,6 +1,6 @@
-# SPlayer
+# SPlayer English
 
-> A simple music player
+> A simple music player - Translated to English
 
 ![Stars](https://img.shields.io/github/stars/imsyy/SPlayer?style=flat)
 ![Version](https://img.shields.io/github/v/release/imsyy/SPlayer)
@@ -10,31 +10,41 @@
 
 ![main](/screenshots/SPlayer.jpg)
 
-## 说明
+
+## Illustrate
 
 > [!IMPORTANT]
->
-> ### 严肃警告
->
-> - 请务必遵守 [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) 许可协议
-> - 在您的修改、演绎、分发或派生项目中，必须同样采用 **AGPL-3.0** 许可协议，**并在适当的位置包含本项目的许可和版权信息**
-> - **禁止用于售卖或其他盈利用途**，如若发现，作者保留追究法律责任的权利
-> - 禁止在二开项目中修改程序原版权信息（ 您可以添加二开作者信息 ）
-> - 感谢您的尊重与理解
 
-- 本项目采用 [Vue 3](https://cn.vuejs.org/) + [TypeScript](https://www.typescriptlang.org/) + [Naïve UI](https://www.naiveui.com/) + [Electron](https://www.electronjs.org/zh/docs/latest/) 开发
-- 支持网页端与客户端，由于设备有限，目前仅适配 `Win`，其他平台可自行解决兼容性后进行构建
-- 仅对移动端做了基础适配，**不保证功能全部可用**
 
-  > 请注意，本程序不打算开发移动端，也不会对移动端进行完美适配，仅保证基础可用性
+> ### Serious Warning
 
-- 欢迎各位大佬 `Star` 😍
+> - Please be sure to comply with the [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) license agreement.
 
-## 💬 交流群
+- In your modified, adapted, distributed, or derived projects, you must also use the **AGPL-3.0** license agreement and **include the license and copyright information of this project in the appropriate location**.
+
+- **Use for sale or other profit-making purposes is prohibited**. If discovered, the author reserves the right to pursue legal action.
+
+- Modifying the original copyright information of the program in derivative projects is prohibited (you can add derivative author information).
+
+- **This is only a translation of the original SPlayer software. All rights reserved.**
+
+- Thank you for your respect and understanding.
+
+- This project is developed using Vue 3 (https://cn.vuejs.org/) + TypeScript (https://www.typescriptlang.org/) + Naïve UI (https://www.naiveui.com/) + Electron (https://www.electronjs.org/zh/docs/latest/).
+
+- Supports web and client-side applications. Due to device limitations, it is currently only compatible with Windows. For other platforms, please address compatibility issues before building.
+
+- Only basic mobile adaptation has been implemented; **full functionality is not guaranteed.**
+
+> Please note that this program is not intended for mobile development and will not be perfectly adapted for mobile devices. Basic usability is guaranteed only.
+
+- You're welcome to star this project, and be sure to star the original! 😍
+
+## 💬 Discussion Group
 
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=2-cVSf1bE0AvAehCib00qFEFdUvPaJ_k&jump_from=webapi&authKey=1NEhib9+GsmsXVo2rCc0IbRaVHeeRXJJ0gbsyKDcIwDdAzYySOubkFCvkV32+7Cw" target="_blank">
 
-![交流群](/screenshots/welcome.png)
+![Discussion Group](/screenshots/welcome.png)
 
 </a>
 
@@ -42,94 +52,94 @@
 
 - [SPlayer](https://music.imsyy.top/)
 
-## 🎉 功能
+## 🎉 Features
 
-- ✨ 支持扫码登录
-- 📱 支持手机号登录
-- 📅 自动进行每日签到及云贝签到
-- 💻 支持桌面歌词
-- 💻 支持切换为本地播放器，此模式将不会连接网络
-- 🎨 封面主题色自适应，支持全站着色
-- 🌚 Light / Dark / Auto 模式自动切换
-- 📁 本地歌曲管理及分类（建议先使用 [音乐标签](https://www.cnblogs.com/vinlxc/p/11347744.html) 进行匹配后再使用）
-- 📁 简易的本地音乐标签编辑及封面修改
-- 🎵 **支持播放部分无版权歌曲（可能会与原曲不匹配，客户端独占功能）**
-- ⬇️ 下载歌曲（ 最高支持 Hi-Res，需具有相应会员账号 ）
-- ➕ 新建歌单及歌单编辑
-- ❤️ 收藏 / 取消收藏歌单或歌手
-- 🎶 每日推荐歌曲
-- 📻 私人 FM
-- ☁️ 云盘音乐上传
-- 📂 云盘内歌曲播放
-- 🔄 云盘内歌曲纠正
-- 🗑️ 云盘歌曲删除
-- 📝 支持逐字歌词
-- 🔄 歌词滚动以及歌词翻译
-- 📹 MV 与视频播放
-- 🎶 音乐频谱显示
-- ⏭️ 音乐渐入渐出
-- 🔄 支持 PWA
-- 💬 支持评论区
-- 📱 移动端基础适配
-- ~~🌐 `i18n` 支持~~
+- ✨ Supports QR code login
+- 📱 Supports mobile number login
+- 📅 Automatic daily check-in and Cloud Coin check-in
+- 💻 Supports desktop lyrics
+- 💻 Supports switching to local player mode (this mode will not connect to the network)
+- 🎨 Cover theme color adapts, supports site-wide coloring
+- 🌚 Automatic switching between Light / Dark / Auto modes
+- 📁 Local song management and categorization (It is recommended to use [Music Tags](https://www.cnblogs.com/vinlxc/p/11347744.html) for matching before using this feature)
+- 📁 Simple local music tag editing and cover modification
+- 🎵 **Supports playback of some copyright-free songs (may not match the original song; client-exclusive feature)**
+- ⬇️ Download songs (supports up to Hi-Res, requires a corresponding membership account)
+- ➕ Create and edit playlists
+- ❤️ Favorite/Unfavorite playlists or artists
+- 🎶 Daily recommended songs
+- 📻 Private FM
+- ☁️ Cloud Drive Music Upload
+- 📂 Cloud Drive Song Playback
+- 🔄 Cloud Drive Song Correction
+- 🗑️ Cloud Drive Song Deletion
+- 📝 Supports Word-by-Word Lyrics
+- 🔄 Lyrics Scrolling and Translation
+- 📹 MV and Video Playback
+- 🎶 Music Spectrum Display
+- ⏭️ Music Fade In/Fade Out (Crossfade)
+- 🔄 Supports PWA
+- 💬 Supports Comment Section
+- 📱 Basic Mobile Adaptation
+- ~~🌐 `i18n` Supported~~
 
 ## 🖼️ screenshots
 
-> 开发中，仅供参考
+> Under development, for reference only
 
 <details>
-<summary>主页面</summary>
+<summary>Main Page</summary>
 
-![主页面](/screenshots/SPlayer%20-%20主页面.jpg)
+![Main Page](/screenshots/SPlayer%20-%20主页面.jpg)
 
 </details>
 
 <details>
-<summary>播放页面</summary>
+<summary>Playback Page</summary>
 
-![播放页面](/screenshots/SPlayer%20-%20播放页面.jpg)
-
-</details>
-
-<details>
-<summary>发现页面</summary>
-
-![发现页面](/screenshots/SPlayer%20-%20发现页面.jpg)
+![Playback Page](/screenshots/SPlayer%20-%20播放页面.jpg)
 
 </details>
 
 <details>
-<summary>歌单页面</summary>
+<summary>Discovery Page</summary>
 
-![发现页面](/screenshots/SPlayer%20-%20歌单页面.jpg)
-
-</details>
-
-<details>
-<summary>评论页面</summary>
-
-![发现页面](/screenshots/SPlayer%20-%20评论页面.jpg)
+![Discovery Page](/screenshots/SPlayer%20-%20发现页面.jpg)
 
 </details>
 
 <details>
-<summary>本地音乐</summary>
+<summary>Playlist Page</summary>
 
-![发现页面](/screenshots/SPlayer%20-%20本地音乐.jpg)
+![Playlist Page](/screenshots/SPlayer%20-%20歌单页面.jpg)
 
 </details>
 
-## 📦️ 获取
+<details>
+<summary>Comments Page</summary>
 
-### 稳定版
+![Comments Page](/screenshots/SPlayer%20-%20评论页面.jpg)
 
-通常情况下，可以在 [Releases](https://github.com/imsyy/SPlayer/releases) 中获取稳定版
+</details>
 
-### 开发版
+<details>
+<summary>Local Music</summary>
 
-可以通过 `GitHub Actions` 工作流获取最新的开发版，目前开发版仅提供 `Win` 版本
+![Local Music](/screenshots/SPlayer%20-%20本地音乐.jpg)
 
-> 如需其他平台的开发版构建，请自行 Fork 本项目并参考 `.github/workflows/release.yml` 创建相应的工作流
+</details>
+
+## 📦️ Installation
+
+### Stable Version
+
+The stable version is usually available at [Releases](https://github.com/imsyy/SPlayer/releases) 中获取稳定版
+
+### Development Version
+
+The latest development version can be obtained through the `GitHub Actions` workflow. Currently, the development version is only available for Windows.
+
+> For development builds on other platforms, please fork this project and create the corresponding workflow using `.github/workflows/release.yml`.
 
 [Dev Workflow](https://github.com/imsyy/SPlayer/actions/workflows/dev.yml)
 
@@ -137,114 +147,116 @@
 
 [![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/splayer)
 
-## ⚙️ Docker 部署
+## ⚙️ Docker Deployment
 
-> 安装及配置 `Docker` 将不在此处说明，请自行解决
+> `Docker` installation and configuration will not be covered here; please handle this yourself.
 
-### 本地构建
+### Local build
 
-> 请尽量拉取最新分支后使用本地构建方式，在线部署的仓库可能更新不及时
+> Please try to pull the latest branch and then use the local build method. Online deployment repositories may not be updated in a timely manner.
 
 ```bash
-# 构建
+# Build
 docker build -t splayer .
 
-# 运行
+# Run
 docker run -d --name SPlayer -p 25884:25884 splayer
-# 或使用 Docker Compose
+# Or use Docker Compose
 docker-compose up -d
 ```
 
-### 在线部署
+### Online deployment
 
 ```bash
-# 从 Docker Hub 拉取
+# Pull from Docker Hub
 docker pull imsyy/splayer:latest
-# 从 GitHub ghcr 拉取
+# Pull from GitHub ghcr
 docker pull ghcr.io/imsyy/splayer:latest
 
-# 运行
+# Run
 docker run -d --name SPlayer -p 25884:25884 imsyy/splayer:latest
 ```
 
-以上步骤成功后，将会在本地 [localhost:25884](http://localhost:25884/) 启动，如需更换端口，请自行修改命令行中的端口号
+After the above steps are successful, it will start locally at [localhost:25884](http://localhost:25884/). If you need to change the port, please modify the port number in the command line.
 
-## ⚙️ Vercel 部署
+## ⚙️ Vercel Deployment
 
-> 其他部署平台大致相同，在此不做说明
+> Other deployment platforms are roughly the same and will not be described here.
 
-1. 本程序依赖 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 运行，请确保您已成功部署该项目，并成功取得在线访问地址
-2. 点击本仓库右上角的 `Fork`，复制本仓库到你的 `GitHub` 账号
-3. 复制 `/.env.example` 文件并重命名为 `/.env`
-4. 将 `.env` 文件中的 `VITE_API_URL` 改为第一步得到的 API 地址
+1. This program depends on [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi). Please ensure that you have successfully deployed this project and obtained the online access address.
+2. Click the upper right corner of this repository. Fork this repository to your GitHub account.
+3. Copy the `/.env.example` file and rename it to `/.env`
+Change `VITE_API_URL` in the `.env` file to the API address obtained in step 1.
 
    ```js
    VITE_API_URL = "https://example.com";
    ```
 
-5. 将 `Build and Output Settings` 中的 `Output Directory` 改为 `out/renderer`
+5. Change `Output Directory` in `Build and Output Settings` to `out/renderer`.
 
    ![build](/screenshots/build.jpg)
 
-6. 点击 `Deploy`，即可成功部署
+6. Click `Deploy` to successfully deploy.
 
-## ⚙️ 服务器部署
+## ⚙️ Server Deployment
 
-1. 重复 `⚙️ Vercel 部署` 中的 1 - 4 步骤
-2. 克隆仓库
+1. Repeat steps 1-4 in `⚙️ Vercel Deployment`.
+2. Clone the repository.
 
    ```bash
    git clone https://github.com/imsyy/SPlayer.git
    ```
 
-3. 安装依赖
+3. Install dependencies.
 
    ```bash
    pnpm install
-   # 或
+   # or
    yarn install
-   # 或
+   # or
    npm install
    ```
 
-4. 编译打包
+4. Compile and package
 
    ```bash
    pnpm build
-   # 或
+   # or
    yarn build
-   # 或
+   # or
    npm build
    ```
 
-5. 将站点运行目录设置为 `out/renderer` 目录
+5. Set the site's running directory to the `out/renderer` directory
 
-## ⚙️ 本地部署
+## ⚙️ Local Deployment
 
-1. 本地部署需要用到 `Node.js`。可前往 [Node.js 官网](https://nodejs.org/zh-cn/) 下载安装包，请下载最新稳定版
-2. 安装 pnpm
+1. Local deployment requires `Node.js`. 1. Download the installation package from the [Node.js official website](https://nodejs.org/). Please download the latest stable version.
+2. Install pnpm
 
    ```bash
    npm install pnpm -g
    ```
 
-3. 克隆仓库并拉取至本地，此处不再赘述
-4. 使用 `pnpm install` 安装项目依赖（若安装过程中遇到网络错误，请使用国内镜像源替代，此处不再赘述）
-5. 复制 `/.env.example` 文件并重命名为 `/.env` 并修改配置
-6. 打包客户端，请依据你的系统类型来选择，打包成功后，会输出安装包或可执行文件在 `/dist` 目录中，可自行安装
+3. Clone the repository and pull it to your local machine. (Details omitted here.)
+4. Use `pnpm install` to install project dependencies. (If you encounter network errors during installation, please use a domestic mirror source instead. Details omitted here.)
+5. Copy the `/.env.example` file and rename it to `/.env`, then modify the configuration.
+6. Package the client. Please select the appropriate version based on your system type. After successful packaging, the installer or executable file will be output to the `/dist` directory, which you can then install.
 
-   > 默认情况下，构建命令仅会构建当前系统架构的版本。如需构建特定架构（如 x64 + arm64），请在命令后追加参数，例如：`pnpm build:win -- --x64 --arm64`
+   > By default, the build command will only build versions compatible with the current system architecture. To build on a specific architecture (such as x64 + arm64), append parameters to the command, for example: `pnpm build:win -- --x64 --arm64`
 
-   | 命令               | 系统类型 |
+
+   | Command               | System Type |
    | ------------------ | -------- |
    | `pnpm build:win`   | Windows  |
    | `pnpm build:linux` | Linux    |
    | `pnpm build:mac`   | MacOS    |
 
-## 😘 鸣谢
+## 😘 Acknowledgements
 
-特此感谢为本项目提供支持与灵感的项目
+Special thanks to the projects that provided support and inspiration for this project
 
+- [SPlayer](https://github.com/imsyy/SPlayer)
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 - [UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/server)
@@ -253,27 +265,32 @@ docker run -d --name SPlayer -p 25884:25884 imsyy/splayer:latest
 - [refined-now-playing-netease](https://github.com/solstice23/refined-now-playing-netease)
 - [material-color-utilities](https://github.com/material-foundation/material-color-utilities)
 
-## 📢 免责声明
+## 📢 Disclaimer
 
-本项目部分功能使用了网易云音乐的第三方 API 服务，**仅供个人学习研究使用，禁止用于商业及非法用途**
+📢 Disclaimer
 
-同时，本项目开发者承诺 **严格遵守相关法律法规和网易云音乐 API 使用协议，不会利用本项目进行任何违法活动。** 如因使用本项目而引起的任何纠纷或责任，均由使用者自行承担。**本项目开发者不承担任何因使用本项目而导致的任何直接或间接责任，并保留追究使用者违法行为的权利**
+This project utilizes some third-party API services from NetEase Cloud Music for personal learning and research purposes only. Commercial and illegal use is strictly prohibited.
 
-请使用者在使用本项目时遵守相关法律法规，**不要将本项目用于任何商业及非法用途。如有违反，一切后果由使用者自负。** 同时，使用者应该自行承担因使用本项目而带来的风险和责任。本项目开发者不对本项目所提供的服务和内容做出任何保证
+The project developer promises to strictly abide by relevant laws and regulations and the NetEase Cloud Music API User Agreement, and will not use this project for any illegal activities. Any disputes or liabilities arising from the use of this project shall be borne by the user. The project developer assumes no direct or indirect liability for any consequences arising from the use of this project and reserves the right to pursue legal action against users for illegal activities.
 
-感谢您的理解
+Please comply with relevant laws and regulations when using this project and do not use it for any commercial or illegal purposes. Any violations will be the sole responsibility of the user. Users should also bear all risks and responsibilities arising from the use of this project. The developers of this project make no guarantees regarding the services and content provided by this project.
 
-## 📜 开源许可
+Thank you for your understanding.
+
+## 📜 Open Source License
 
 - **本项目仅供个人学习研究使用，禁止用于商业及非法用途**
-- 本项目基于 [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) 许可进行开源
-  1. **修改和分发：** 任何对本项目的修改和分发都必须基于 AGPL-3.0 进行，源代码必须一并提供
-  2. **派生作品：** 任何派生作品必须同样采用 AGPL-3.0，并在适当的地方注明原始项目的许可证
-  3. **注明原作者：** 在任何修改、派生作品或其他分发中，必须在适当的位置明确注明原作者及其贡献
-  4. **免责声明：** 根据 AGPL-3.0，本项目不提供任何明示或暗示的担保。请详细阅读 [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) 以了解完整的免责声明内容
-  5. **社区参与：** 欢迎社区的参与和贡献，我们鼓励开发者一同改进和维护本项目
-  6. **许可证链接：** 请阅读 [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) 了解更多详情
+- **This project is for personal study and research only and is prohibited from commercial or illegal use.**
+
+- This project is open source under the [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) license.
+1. **Modification and Distribution:** Any modifications and distributions of this project must be based on AGPL-3.0, and the source code must be provided.
+2. **Derivative Works:** Any derivative works must also be licensed under AGPL-3.0, and the original project's license must be clearly credited where appropriate.
+3. **Attribution:** In any modifications, derivative works, or other distributions, the original author and their contributions must be clearly credited where appropriate.
+4. **Disclaimer:** Under AGPL-3.0, this project provides no warranties, express or implied. Please read the [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) for the complete disclaimer.
+5. **Community Participation:** Community participation and contributions are welcome. We encourage developers to work together to improve and maintain this project.
+6. **License Link:** Please read the [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) for more details.
+
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=imsyy/SPlayer&type=Date)](https://star-history.com/#imsyy/SPlayer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=totolocks/SPlayer-English&type=timeline&logscale&legend=top-left)](https://www.star-history.com/#totolocks/SPlayer-English&type=timeline&logscale&legend=top-left)
